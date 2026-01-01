@@ -12,6 +12,6 @@ answer as an integer called duration (use 1990 as the decade's start year).
 
 ## **(2) Exploring NYC public school Test Result score**
 
-Analyze NYC school SAT data to identify schools with top math scores (≥80% of 800), 
+Analyze NYC school SAT data to identify schools with top math scores (≥80% of 800) in schools.csv file, 
 rank the top 10 schools by total SAT score, and determine the borough with the highest
 variability in total SAT performance.
